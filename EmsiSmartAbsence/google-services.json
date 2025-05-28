@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4448772222",
+    "project_id": "mediscan-dab83",
+    "storage_bucket": "mediscan-dab83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4448772222:android:18de71b857dccb2ae3382f",
+        "android_client_info": {
+          "package_name": "com.example.emsi_smartabsence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4448772222-8qn3r8gv18hn0t22min8roe1s76kedqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZbJDaMsFQ_wnP0S0Nk6II4Zd05G4Zvbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4448772222-8qn3r8gv18hn0t22min8roe1s76kedqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
